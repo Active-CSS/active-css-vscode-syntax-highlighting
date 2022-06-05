@@ -7,7 +7,7 @@ To install, work out where your .vscode extensions directory is and copy the _wh
 On Windows, the directory should look something like this:
 
 ```
-c:/Users/yourname/.vscode/extensions
+c:/Users/yourname/.vscode/extensions/
 ```
 
 On other operating systems you'll need to look up where the vscode extensions should go by using a search engine.
