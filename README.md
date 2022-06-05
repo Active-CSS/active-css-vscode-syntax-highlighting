@@ -10,7 +10,7 @@ On Windows, the directory should look something like this:
 c:/Users/yourname/.vscode/extensions/
 ```
 
-On other operating systems you'll need to look up where the vscode extensions is, using a search engine. Then let me know how you got it all to work, and I'll include it in these instructions. :)
+On other operating systems you'll need to look up where the vscode extensions is, using a search engine. Then let me know how you got it all to work (by opening an issue in this repo), and I'll include your instructions in these instructions. :)
 
 After copying the repo into the extensions directory, close and restart VSCode.
 
