@@ -10,11 +10,11 @@ On Windows, the directory should look something like this:
 c:/Users/yourname/.vscode/extensions/
 ```
 
-On other operating systems you'll need to look up where the vscode extensions should go by using a search engine.
+On other operating systems you'll need to look up where the vscode extensions is, using a search engine. Then let me know and I'll include it in these instructions. :)
 
-After copying the extension into that directory, close and restart VSCode.
+After copying the repo into the extensions directory, close and restart VSCode.
 
-It should syntax highlight the ".acss" files.
+It should now be syntax highlighting ".acss" files.
 
 
 
