@@ -1,25 +1,25 @@
 {
-    "name": "active-css-vscode-syntax-highlighting",
-    "displayName": "ACSS",
-    "description": "Active CSS syntax highlighting",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "categories": [
-        "Programming Languages"
-    ],
-    "contributes": {
-        "languages": [{
-            "id": "activecss",
-            "aliases": ["Active CSS", "activecss"],
-            "extensions": [".acss"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "activecss",
-            "scopeName": "source.acss",
-            "path": "./syntaxes/activecss.tmLanguage.json"
-        }]
-    }
+	"name": "active-css-vscode-syntax-highlighting",
+	"displayName": "ACSS",
+	"description": "Active CSS syntax highlighting",
+    "version": "0.1",
+	"engines": {
+		"vscode": "^1.64.0"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"contributes": {
+		"languages": [{
+			"id": "activecss",
+			"aliases": ["Active CSS", "activecss"],
+			"extensions": [".acss"],
+			"configuration": "./language-configuration.json"
+		}],
+		"grammars": [{
+			"language": "activecss",
+			"scopeName": "source.acss",
+			"path": "./syntaxes/activecss.tmLanguage.json"
+		}]
+	}
 }
