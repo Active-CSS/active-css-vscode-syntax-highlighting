@@ -2,7 +2,7 @@
 	"name": "active-css-vscode-syntax-highlighting",
 	"displayName": "ACSS",
 	"description": "Active CSS syntax highlighting",
-    "version": "0.1",
+    "version": "0.1.1",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
